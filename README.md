@@ -18,7 +18,7 @@ Reprodução de áudio dos capítulos do livro "Dom Casmurro".
 
 Controles de reprodução (play, pause, avançar e voltar).
 
-Exibição de informações sobre o capítulo atual.
+Exibição dinâmica de informações sobre o capítulo atual.
 
 ## Imagens
 
